@@ -283,11 +283,14 @@ h1, h2, h3, h4, p, ul {
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
-  color: white;
   margin-top: 20px;
   margin-bottom: 16px;
   list-style: none;
   text-decoration:none;
+}
+
+.footer__column-link a {
+  color: white;
 }
 
 .footer__social-icon {
